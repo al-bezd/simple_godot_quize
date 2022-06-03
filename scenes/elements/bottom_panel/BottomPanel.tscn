@@ -1,0 +1,13 @@
+[gd_scene format=2]
+
+[node name="VBoxContainer" type="GridContainer"]
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+margin_left = -488.0
+margin_top = -189.0
+margin_right = 488.0
+custom_constants/vseparation = 16
+custom_constants/hseparation = 16
+columns = 2
